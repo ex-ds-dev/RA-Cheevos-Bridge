@@ -28,17 +28,23 @@ Failsafe: If the bridge app is ever forcefully closed, it will automatically cl
 How to Use:
 
 Step 1: Download the file (unblock the downloaded zip) and extract it.
+
 Step 2: Copy the extracted files “RA_Bridge.exe”, “cheevos_login.ini” and “_internal folder” into your portable RetroArch directory, right next to retroarch.exe.
+
 Step 3: Open “cheevos_login.ini” with any text editor and replace the placeholder details with your own username and password. Save and close the file.
+
 Step 4: Configure Your SetupYou have three options depending on your case:
 
 Method A (For Most Frontends):
+
 In your frontend's emulator settings (launchbox for example), simply change the executable path from ...\retroarch.exe to ...\RA_Bridge.exe.
 
 Method B (For Frontends with "retroarch.exe" hardcoded):
+
 Rename your original retroarch.exe to retroarch_real.exe and rename RA_Bridge.exe to retroarch.exe.
 
 Method C (Standalone Retroarch)
+
 If you use RetroArch without a frontend, just run "RA_Bridge.exe".]
 
 That's it! The next time you launch a game, the login will be handled automatically.
