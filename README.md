@@ -33,7 +33,8 @@ Step 2: Copy the extracted files “RA_Bridge.exe”, “cheevos_login.ini” a
 
 Step 3: Open “cheevos_login.ini” with any text editor and replace the placeholder details with your own username and password. Save and close the file.
 
-Step 4: Configure Your SetupYou have three options depending on your case:
+Step 4: Configure Your Setup
+You have three options depending on your case:
 
 Method A (For Most Frontends):
 
